@@ -1,1 +1,1 @@
-print ("Hello friend")
+System.out.printIn("Hello friend");
